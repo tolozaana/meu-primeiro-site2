@@ -1,0 +1,27 @@
+body{
+  display: flex;
+  flex-direction: column; /* empilha imagem + texto */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+figure {
+  margin: 0;
+  text-align: center;
+}
+
+img {
+    width: 35rem;
+    border-radius: 70px;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  background-color: #ffe4e1;
+}
